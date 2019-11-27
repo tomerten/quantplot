@@ -1,0 +1,6 @@
+__title__ = 'quantplot'
+__description__ = 'A plotting package to plot price time series from JSON based finance file format'
+__url__ = 'https://github.com/tomerten/quantplot'
+__version__ = '0.0.1'
+__author__ = 'Tom Mertens'
+__license__ = 'GNU General Public License v3.0'
